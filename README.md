@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🛡️ Penetration Testing Portfolio
 
-<!--
-**knull-sec/knull-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm John 👋  
+I'm an aspiring penetration tester focused on **hands-on learning**, real-world attack techniques, and clear reporting.
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- Network & Web Penetration Testing
+- Nmap, Burp Suite, Metasploit
+- Linux & Windows Privilege Escalation
+- OWASP Top 10
+- Basic Active Directory Attacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Platforms Practiced
+- TryHackMe
+- Hack The Box
+- Vulnerable Labs (DVWA, Juice Shop)
+
+## 📂 Portfolio Sections
+- 🧪 Writeups – Step-by-step attack walkthroughs
+- 📄 Reports – Professional pentest reports
+- 🛠️ Tools – Scripts & automation
+- 📓 Notes – Pentesting methodology & checklists
+
+## 🔗 Links
+- LinkedIn: (add later)

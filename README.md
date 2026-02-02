@@ -1,6 +1,6 @@
-# 🛡️ Penetration Testing Portfolio
+# 🛡️ About
 
-Hi, I'm John 👋  
+Hi, I'm Harshal 👋  
 I'm an aspiring penetration tester focused on **hands-on learning**, real-world attack techniques, and clear reporting.
 
 ## 🔹 Skills

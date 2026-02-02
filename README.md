@@ -1,25 +1,51 @@
-# 🛡️ About
+# Hi there! 👋
 
-Hi, I'm Harshal 👋  
-I'm an aspiring penetration tester focused on **hands-on learning**, real-world attack techniques, and clear reporting.
+I'm a cybersecurity enthusiast focused on penetration testing and ethical hacking.
 
-## 🔹 Skills
-- Network & Web Penetration Testing
-- Nmap, Burp Suite, Metasploit
-- Linux & Windows Privilege Escalation
-- OWASP Top 10
-- Basic Active Directory Attacks
+---
 
-## 🔹 Platforms Practiced
-- TryHackMe
-- Hack The Box
-- Vulnerable Labs (DVWA, Juice Shop)
+## 🔐 About Me
 
-## 📂 Portfolio Sections
-- 🧪 Writeups – Step-by-step attack walkthroughs
-- 📄 Reports – Professional pentest reports
-- 🛠️ Tools – Scripts & automation
-- 📓 Notes – Pentesting methodology & checklists
+Learning and practicing penetration testing through hands-on labs and CTF challenges. Passionate about finding vulnerabilities and understanding how systems can be secured.
 
-## 🔗 Links
-- LinkedIn: (add later)
+---
+
+## 🛠️ Skills
+
+- **Tools**: Nmap, Burp Suite, Metasploit, Wireshark, SQLmap, Hydra, John the Ripper
+- **Scripting**: Python, Bash
+- **Focus Areas**: Web App Security, Network Pentesting, Vulnerability Assessment
+
+---
+
+## 🎓 Certifications
+
+Working towards: eJPT, Security+, CEH, OSCP
+
+---
+
+## 🎯 Platforms I Practice On
+
+- **TryHackMe** - [My Profile](https://tryhackme.com/p/yourusername)
+- **Hack The Box** - [My Profile](https://app.hackthebox.com/profile/yourid)
+- **Vulnerable Labs**: DVWA, Juice Shop
+
+---
+
+## 📂 What You'll Find Here
+
+- 🧪 **Writeups** – CTF walkthroughs and challenge solutions
+- 📄 **Reports** – Practice pentest reports
+- 🛠️ **Tools** – Security scripts and automation
+- 📓 **Notes** – Methodology and checklists
+
+---
+
+## 📫 Connect
+
+- Email: your.email@example.com
+- LinkedIn: [Profile Link](https://linkedin.com/in/yourprofile)
+
+---
+
+⚠️ *All testing is done in authorized environments only.*
